@@ -1,0 +1,7 @@
+
+# Conquest
+
+
+avf\conquest\prefabs\capture_point.xml : AVF_Conquest/Control_Point(ALPHA)
+avf\conquest\prefabs\conquest_manager.xml : AVF_Conquest/Conquest_game_manager(ALPHA)
+

@@ -1,3 +1,4 @@
+#version 2
 #include "priorityQueue.lua"
 #include "mapNode.lua"
 

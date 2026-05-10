@@ -1,3 +1,4 @@
+#version 2
 
 
 -- Play a sound at a ocation and tag the source as playing the sound if necessary

@@ -1,3 +1,4 @@
+#version 2
 
 -- function fire(gun,barrelCoords)
 --     if(gun.mouseDownSound and getPlayerMouseDown())then

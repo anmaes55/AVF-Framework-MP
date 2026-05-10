@@ -1,3 +1,4 @@
+#version 2
 #include "controls.lua"
 #include "AVF_VERSION.lua"
 

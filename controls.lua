@@ -1,3 +1,4 @@
+#version 2
 armedVehicleControls = {
 	fire 				= "usetool",
 	sniperMode 			= "vehiclelower",

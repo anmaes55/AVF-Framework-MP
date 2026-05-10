@@ -1,3 +1,4 @@
+#version 2
 explosionController = {
 
 	test =  "hello world",

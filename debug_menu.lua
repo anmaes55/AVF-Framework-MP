@@ -1,3 +1,4 @@
+#version 2
 DEBUG_AI_PRIORITIES = false	
 
 DEBUG_MISSILE_PROTOCOL = false

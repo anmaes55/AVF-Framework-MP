@@ -1,3 +1,4 @@
+#version 2
 AmmoOverrides = {
 	name				= "name",	
 	caliber 			= "caliber",

@@ -1,3 +1,4 @@
+#version 2
 
 --[[]
 #include "umf/umf_core.lua"
